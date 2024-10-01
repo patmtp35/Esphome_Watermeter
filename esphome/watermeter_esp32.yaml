@@ -100,7 +100,7 @@ external_components:
   # uses the latest version from SzczepanLeon (github)
   # https://github.com/SzczepanLeon/esphome-components
   # You can make ESPHome check the repository every time by setting this option to 0s
-  - source: github://SzczepanLeon/esphome-components
+  - source: github://SzczepanLeon/esphome-components@3.2.3
     refresh: 0s
     components: [wmbus]
 
